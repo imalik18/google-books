@@ -1,0 +1,17 @@
+.jumbo {
+    height:250px;
+    background-color: gray;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.results {
+    height: 500px;
+    background-color: lightgray;
+    margin: 10px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}

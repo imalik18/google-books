@@ -1,0 +1,13 @@
+.result {
+    height: 500px;
+    background-color: lightgray;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    margin: 20px;
+}
