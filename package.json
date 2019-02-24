@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/imalik18/google-books#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "mongoose": "^5.4.15"
   }
 }
