@@ -11,6 +11,8 @@
 <h2> Saved Page: </h2>
 <p>This page contains all the books which were saved by the user. They can also delete the book from their database by clicking 'delete'.</p>
 
+Note: This app has yet to be connected with Mongo Database.
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
