@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/imalik18/google-books#readme",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "express": "^4.16.4",
-    "mongoose": "^5.4.15"
+    "mongoose": "^5.4.15",
+    "react-bootstrap": "^1.0.0-beta.5"
   }
 }
